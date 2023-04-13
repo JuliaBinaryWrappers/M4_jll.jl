@@ -1,0 +1,143 @@
+[[M4]]
+arch = "aarch64"
+git-tree-sha1 = "5dcc35b69d7167a77f4e2ecfe37ffc0ed5b4009a"
+os = "macos"
+
+    [[M4.download]]
+    sha256 = "46cfa75e5ca1521a7c540ec0743f22a9dac7b86f8849e64354027ac3ea1d0dfd"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.aarch64-apple-darwin.tar.gz"
+[[M4]]
+arch = "aarch64"
+git-tree-sha1 = "469f1877e910b13a50366fa467e388339e176509"
+libc = "glibc"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "af8d80035b1b3d215d1be1d3bc4aebca990191af265dd1489a69e5b3b6f8d040"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.aarch64-linux-gnu.tar.gz"
+[[M4]]
+arch = "aarch64"
+git-tree-sha1 = "8bd99ac76debe78f0c8b4571a2c00fbbc56722d4"
+libc = "musl"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "35cd880ec293a8f1e7bd198045045ed4887c4a217ed094f74af630ccde3ce76a"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.aarch64-linux-musl.tar.gz"
+[[M4]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ea2fc083d52818e2a4e25efa801a4255c913a9f1"
+libc = "glibc"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "8c15a0f372ea52a900e6b0035508740d3e1937c6953e0ef293d05d2a0a724cd6"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.armv6l-linux-gnueabihf.tar.gz"
+[[M4]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "bd49732102b502d4f805949640225154af51446c"
+libc = "musl"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "14f62e8c7cf08a44cbb32f1fb7df98ec7042299087a6131a9f1e443429b24c3e"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.armv6l-linux-musleabihf.tar.gz"
+[[M4]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9313d13bb764b18ac1b1559862da082eefdd0570"
+libc = "glibc"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "0b13b2ae60320a3bd5142ba751102321f012ed8ee18b243bd955246269de1f2b"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.armv7l-linux-gnueabihf.tar.gz"
+[[M4]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "060d7b852a4572f350efaa106c33d94eca814c78"
+libc = "musl"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "b42e5cb610046ffcfb3c6a53623e38515dfbdb97e9a2bee4cc99cc3813500673"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.armv7l-linux-musleabihf.tar.gz"
+[[M4]]
+arch = "i686"
+git-tree-sha1 = "ccce11158faf4acaaff7773994fe7c3823da6cd6"
+libc = "glibc"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "1b91eb54bf0317fe3cb746e04ee13c5979a5f7a8fc210ac76d892789dcae4b29"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.i686-linux-gnu.tar.gz"
+[[M4]]
+arch = "i686"
+git-tree-sha1 = "9b4bfde7fd003d78bd54874460cfa40f863ddde0"
+libc = "musl"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "1730f73f8dce681aa8cc85e635c2fc5f318d7b297b14f094e53e593b00c963de"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.i686-linux-musl.tar.gz"
+[[M4]]
+arch = "i686"
+git-tree-sha1 = "b835afc1897b9959e5d64445fc6e83d0985a6906"
+os = "windows"
+
+    [[M4.download]]
+    sha256 = "c6ba272b29eb7b18cc5e3f69e21f00c1c8db89f2fbcee0d3ef4d07bb7fdf1570"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.i686-w64-mingw32.tar.gz"
+[[M4]]
+arch = "powerpc64le"
+git-tree-sha1 = "400cb9290d08a8eb6baa6d7e7849c4f2f9802381"
+libc = "glibc"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "43027d4beb693006c07cd44fa19fceffc41aa053ec1d6a912777c1d8b2730dc8"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.powerpc64le-linux-gnu.tar.gz"
+[[M4]]
+arch = "x86_64"
+git-tree-sha1 = "262b4728b2afc9670abd5a0393049f9331a69c4d"
+os = "macos"
+
+    [[M4.download]]
+    sha256 = "1a876a6d422456ce41cdcb0b5f635f4dd67cbd2c457b4e7940191e1cca7c3232"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.x86_64-apple-darwin.tar.gz"
+[[M4]]
+arch = "x86_64"
+git-tree-sha1 = "e13ea6f01c9bc987dbe68ee300219517e5696154"
+libc = "glibc"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "9f421fddb5a25300af1223fc1578e7dc99bc8dabbf3ff14be7cfe06237be8bb9"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.x86_64-linux-gnu.tar.gz"
+[[M4]]
+arch = "x86_64"
+git-tree-sha1 = "450e2f64ad002010770c3c68f41ed37e523eedf0"
+libc = "musl"
+os = "linux"
+
+    [[M4.download]]
+    sha256 = "5f5a4a0891a6eaa9160ba31aba682e77e2d3b52523ba2a8b482d0440480675b9"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.x86_64-linux-musl.tar.gz"
+[[M4]]
+arch = "x86_64"
+git-tree-sha1 = "e52f1f09501d193c05f25451934af0d4ccd379a3"
+os = "freebsd"
+
+    [[M4.download]]
+    sha256 = "e34ff34706a09ba4e4e6e6eb413e52ea4cd1aa8243d68e331937795a6805246b"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.x86_64-unknown-freebsd.tar.gz"
+[[M4]]
+arch = "x86_64"
+git-tree-sha1 = "cefb288145626e0faaec4e78a4fc78aabb98a61f"
+os = "windows"
+
+    [[M4.download]]
+    sha256 = "83dcd2642b8a8425240079ad0360ec5af87ad474400ff1d5b80377ce6b1b950b"
+    url = "https://github.com/JuliaBinaryWrappers/M4_jll.jl/releases/download/M4-v1.4.19+0/M4.v1.4.19.x86_64-w64-mingw32.tar.gz"
