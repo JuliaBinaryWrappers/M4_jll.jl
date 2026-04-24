@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("M4")
-JLLWrappers.@generate_main_file("M4", UUID("9051c120-a745-5e86-aaa7-8cbc404dba28"))
+JLLWrappers.@generate_main_file("M4", Base.UUID("9051c120-a745-5e86-aaa7-8cbc404dba28"))
 end  # module M4_jll
